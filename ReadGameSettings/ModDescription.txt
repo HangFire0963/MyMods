@@ -1,0 +1,1 @@
+Activate to display a notification pop-up window requesting the player read the Game Settings before proceeding to play.
